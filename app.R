@@ -117,7 +117,7 @@ demographic_cols_iteration2 <- c(
   "wlz_start_period",
   "wlz_before_heeft_heup_totaal"
 )
-
+ 
 pretty_default_iteration2 <- function(x) {
   x |>
     stringr::str_replace_all("_", " ") |>
