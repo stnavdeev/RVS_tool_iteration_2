@@ -1,0 +1,26 @@
+[2026-07-13 09:38:30.014377] [iter3] cost_agg_3c: 46428 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3c/cost_aggregations.xlsx
+[2026-07-13 09:38:30.584216] [iter3] cost_agg_3d: 76336 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3d/cost_aggregations.xlsx
+[2026-07-13 09:38:31.086602] [iter3] cost_agg_3e: 41764 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3e/cost_aggregations.xlsx
+[2026-07-13 09:38:31.158222] [iter3] regression_3c: 7310 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3c/regression_results.xlsx
+[2026-07-13 09:38:31.276349] [iter3] regression_3d: 11229 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3d/regression_results.xlsx
+[2026-07-13 09:38:31.303169] [iter3] zpk: 2659 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3c/zpk_categorieen_tellingen.xlsx
+[2026-07-13 09:38:31.341617] [iter3] top50_activiteiten: 1192 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3c/top50_activiteiten.xlsx
+[2026-07-13 09:38:31.358671] [iter3] top50_prestaties: 731 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3d/top50_prestaties.xlsx
+[2026-07-13 09:38:31.361693] [iter3] acp_average_ages: 4 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3d/acp_average_ages.xlsx
+[2026-07-13 09:38:31.365509] [iter3] acp_population_descriptives: 121 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3d/ACP_population_descriptives.xlsx
+[2026-07-13 09:38:31.369585] [iter3] zvwk_distributions: 176 rijen geladen uit /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3d/zvwk_distributions.xlsx
+[2026-07-13 09:38:31.369736] [startup] APP_ROOT=/Users/stnavdeev/Downloads/RVS_clone/dashboard, getwd()=/Users/stnavdeev/Downloads/RVS_clone/dashboard
+[2026-07-13 09:38:31.397527] [geo] Loaded 12 province polygons
+[2026-07-13 09:38:31.397717] [startup] Initializing data...
+[2026-07-13 09:38:33.411302] [read_all_data] Loaded 258753 rows from 7 sheets
+[2026-07-13 09:38:33.420779] [startup] Initialization complete: 42 base names, 9 doodsoorzaken
+[2026-07-13 09:38:33.421034] [startup] Iteratie 3 ZPK: /Users/stnavdeev/Downloads/RVS_clone/dashboard/data/data_iteration_3/iteration_3c/zpk_categorieen_tellingen.xlsx (2659 rows, prestatie_col=prestatie_type)
+[2026-07-13 09:38:33.421512] [startup] Iteratie 3 cost_agg_3c: 46428 rows, 11 sheets (msz_activit_diag, msz_addon, msz_addon_oncology_cancer, msz_addon_oncology_total_cancer, msz_prestaties, msz_prestaties_corrected, msz_prestaties_diag, wlz, wlz_corrected, zvw, zvw_corrected)
+[2026-07-13 09:38:33.422265] [startup] Iteratie 3 cost_agg_3d: 76336 rows, 7 sheets (huisartsdecltab, msz_addon, msz_addon_oncology_cancer, msz_addon_oncology_total, msz_addon_oncology_total_cancer, msz_prestatie_diagnostiek, msz_prestaties)
+[2026-07-13 09:38:33.42272] [startup] Iteratie 3 cost_agg_3e: 41764 rows, 3 sheets (msz_activit_diagnostiek, msz_prestatie_diagnostiek, msz_prestaties)
+[2026-07-13 09:38:37.114087] [read_all_data] Loaded 258753 rows from 7 sheets
+[2026-07-13 09:38:37.29204] [data_maandelijks_lijn] Base: 1079 rows (domein=bedragwlzzin, maatstaf=gemiddelde_per_persoon)
+[2026-07-13 09:38:37.305135] [data_maandelijks_lijn] Post-filter: 33 rows
+[2026-07-13 09:38:39.887174] [read_all_data] Loaded 258753 rows from 7 sheets
+[2026-07-13 09:38:39.979723] [data_maandelijks_lijn] Base: 1079 rows (domein=bedragwlzzin, maatstaf=gemiddelde_per_persoon)
+[2026-07-13 09:38:39.983108] [data_maandelijks_lijn] Post-filter: 33 rows
